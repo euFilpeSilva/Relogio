@@ -6,8 +6,7 @@ function carregar() {
 
   function intervalo() {
     var data = new Date()
-    //var hora = data.getHours()
-    var hora = 21
+    var hora = data.getHours()
     const minutos = data.getMinutes();
     const segundos = data.getSeconds();
     const milisegundos = data.getMilliseconds()
