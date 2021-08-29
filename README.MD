@@ -6,3 +6,7 @@
 ####
 #
 ![](imagem/proheto_horas_dia.gif)
+#
+## Com horas, minutos, segundos e milisegundos
+#
+![](imagem/proheto_horas_dia2.gif)
